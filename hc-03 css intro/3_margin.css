@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+}
+
+
+body{
+    margin: 0px;
+}
+
+.container{
+    background-color: aqua;
+    margin: 20px;
+}
+
+#baslık{
+    background-color: chocolate;
+    margin: 0px;
+    margin-top: 50px;
+}
+
+#par1{
+    background-color: green;
+    /* margin: 0px; */
+
+    /* margin: 50px; */
+/* margin: 20px 50px; */
+/* margin: 10px 50px 30px; */
+/* margin: 10px 20px 30px 40px ; */
+padding-top: 50px;
+padding-right: 30px;
+padding-left: 20px;
+padding-right: 10px;
+
+}
+
+#par2{
+    background-color: purple;
+    /* margin: 0px; */
+    width: 50%;
+    margin: 100px auto;
+    padding: 10px;
+}
+
+
+
+/* yıldızla secersek herseyi secmis oluyoruz */
