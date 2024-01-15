@@ -1,0 +1,115 @@
+*{
+    box-sizing: border-box;
+    border: 5px;
+}
+
+body{
+    color: white;
+    background: rgb(0, 9, 30);
+    background: linear-gradient(-30deg,red,orange);
+    background-repeat: no-repeat;
+}
+
+#div1{
+    text-align: center;
+    line-height: 150px;
+    display: flex;
+}
+
+.par1{
+    text-align: center;
+    /* border: 5px solid red; */
+    margin: 10px 30px;
+    height: 100px;
+    width: 200px;
+    justify-content: center;
+}
+
+.par2{
+    text-align: center;
+    border-width: 10px;
+    border-style: dotted ;
+    border-color: black;
+    width: 200px;
+    margin: 10px 30px;
+    padding: 10px 10px;
+    height: 150px;
+}
+
+.par3{
+    border-style:dashed ;
+    width: 200px;
+    height: 150px;
+    text-align: center;
+     margin: 10px 30px;
+     padding: 10px 10px;
+}
+
+#div2{
+   text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.par4{
+    border-style: solid;
+    width: 200px;
+    height: 150;
+    margin: 10px 30px ;
+    padding: 60px;
+}
+
+.par5{
+    border-style: double;
+    width: 200px;
+    height: 150px;
+    margin:10px 10px ;
+    padding:60px ;
+    text-align: center;
+    /* justify-content: center; */
+}
+
+.par6{
+    border-style: groove;
+    width: 200px;
+    height: 150px;
+    margin: 20px 30px ;
+    padding:60px ;
+    text-align: center;
+    /* justify-content: center; */
+}
+
+#div3{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.par7{
+    border-style: ridge;
+    width: 200px;
+    height: 150px;
+    text-align: center;
+    margin: 20px 30px;
+    padding: 60px;
+
+}
+
+.par8{
+    border-style: ridge;
+    width: 200px;
+    height: 150px;
+    text-align: center;
+    margin: 20px 30px;
+    padding: 60px;
+    
+}
+
+.par9{
+    border-style: ridge;
+    width: 200px;
+    height: 150px;
+    text-align: center;
+    margin: 20px 30px;
+    padding: 60px;
+    
+}
