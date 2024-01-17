@@ -1,0 +1,23 @@
+*{
+    /* margin: 0; */
+}
+
+.languages{
+    border: 2px solid red;
+    /* padding: 0; */
+
+     /* madde im stilleri */
+
+     list-style-type: disc;
+     list-style-type: none;
+     list-style-type: disc;
+
+     /* made imleri li lerin içinde mi dışında mı */
+
+     list-style-position: insidee;
+}
+
+
+
+
+
